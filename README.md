@@ -5,7 +5,7 @@
 [![Linting - Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 [![Code style - Black](https://img.shields.io/badge/Code%20Style-Black-000000.svg)](https://github.com/psf/black)
 
-Personally, I found the take-home test a bit unusual. It asked candidates to build a model using a fairly heavy dataset, which I don’t think is the best way to showcase skills and experience. The overall recruitment process also wasn’t very clear. That said, the HR team was genuinely lovely. Please keep these points in mind and consider them carefully before applying.
+## Personally, I found the take-home test a bit unusual. It asked candidates to build a model using a fairly heavy dataset, which I don’t think is the best way to showcase skills and experience. The overall recruitment process also wasn’t very clear. That said, the HR team was genuinely lovely. Please keep these points in mind and consider them carefully before applying.
 
 A comprehensive machine learning pipeline for **Booking-Through Rate (CTR) prediction** featuring advanced feature engineering, multiple modeling approaches, hyperparameter optimization, model interpretability, and **business impact analysis** with ROI quantification.
 
