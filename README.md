@@ -1,4 +1,4 @@
-# CTR Prediction Project — test_case_12ga
+# CTR Prediction Project — 12 Go Asia
 
 
 [![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
